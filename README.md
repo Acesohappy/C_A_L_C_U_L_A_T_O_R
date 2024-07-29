@@ -10,7 +10,6 @@ Welcome to the Calculator Project! This is my first programming project, where I
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -65,8 +64,6 @@ Push to the branch:
 git push origin feature-branch
 ```
 Create a pull request.
-## License
-This project is licensed under the MIT License. See the [LICENSE](#license) file for details.
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
