@@ -45,9 +45,9 @@ To use the calculator, open the `calc.html` file in your preferred web browser. 
 open calc.html
 ```
 ## Technologies Used
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -71,6 +71,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Your Name
+Anubama I
+ 
 Email: anubama2006.email@example.com
+
 GitHub: Acesohappy
