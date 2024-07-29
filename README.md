@@ -70,6 +70,6 @@ If you have any questions or suggestions, feel free to reach out:
 
 Anubama I
  
-Email: anubama2006.email@example.com
+Email: anubama2006@gmail.com
 
 GitHub: Acesohappy
