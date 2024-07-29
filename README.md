@@ -44,3 +44,33 @@ To use the calculator, open the `calc.html` file in your preferred web browser. 
 ```bash
 open calc.html
 ```
+Technologies Used
+HTML
+CSS
+JavaScript
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch:
+bash
+Copy code
+git checkout -b feature-branch
+Make your changes and commit them:
+bash
+Copy code
+git commit -m "Description of changes"
+Push to the branch:
+bash
+Copy code
+git push origin feature-branch
+Create a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+If you have any questions or suggestions, feel free to reach out:
+
+Your Name
+Email: anubama2006.email@example.com
+GitHub: Acesohappy
